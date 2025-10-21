@@ -1,0 +1,7 @@
+{
+  "name": "StudyGPT",
+  "description": "A conversational AI study assistant inspired by OpenAI. Ask questions, get explanations, and generate study aids on the fly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
